@@ -5,7 +5,7 @@
 - I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev)
 
 
-## :man_technologist: Languages 
+### :man_technologist: Languages 
 
 <!--
 ### Languages I've used 
