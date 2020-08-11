@@ -43,20 +43,21 @@
 
   
   
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yohannesHL/yohannesHL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/yohannesHL/yohannesHL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yohannes's GitHub Stats" />
-</a>
+
 
 
 
 <!-- 
+<a href="https://github.com/yohannesHL/yohannesHL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yohannes's GitHub Stats" />
+</a>
 ## Some of my projects 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
