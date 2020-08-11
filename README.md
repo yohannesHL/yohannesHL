@@ -1,5 +1,5 @@
 ### Hey :wave:, I'm Yohannes 
-I'm a Software Engineer based in London. 
+- I'm a Software Engineer based in London. 
 - Focused on JavaScript, React, Node.js, Python and Go development.
 - Interested in Full Stack Web/Mobile development, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
 - I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev)
@@ -46,7 +46,7 @@ I'm a Software Engineer based in London.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yohannesHL/yohannesHL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
