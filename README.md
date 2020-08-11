@@ -1,5 +1,5 @@
 ### Hey :wave:, I'm Yohannes 
-I'm a Software Engineer with 11+ years coding experience with C, C++, Matlab, Java, C#, PHP, JavaScript, Python and Go.
+I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java, C#, PHP, JavaScript, Python and Go.
 - Based in London, UK. 
 - Focused on JavaScript, Python and Go.
 - Interested in Full Stack Web/Mobile, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
