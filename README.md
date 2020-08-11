@@ -40,7 +40,12 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&color=1d1f21&logo=postgresql)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&color=1d1f21&logo=mysql)
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&color=1d1f21&logo=mongodb)
+![](https://img.shields.io/badge/KsqlDB-informational?style=for-the-badge&color=1d1f21&logo=ksqldb)
+![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&color=1d1f21&logo=redis)
+![](https://img.shields.io/badge/RabbitMQ-informational?style=for-the-badge&color=1d1f21&logo=rabbitmq)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&color=1d1f21&logo=docker)
+![](https://img.shields.io/badge/Spark-informational?style=for-the-badge&color=1d1f21&logo=spark)
+![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&color=1d1f21&logo=apache_kafka)
 ![](https://img.shields.io/badge/AWS-informational?style=for-the-badge&color=1d1f21&logo=amazon-web-services)
 
   
