@@ -1,8 +1,9 @@
 ### Hey :wave:, I'm Yohannes 
-- I'm a Software Engineer based in London. 
-- Focused on JavaScript, Python and Go development.
-- Interested in Full Stack Web/Mobile development, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
-- I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev)
+I'm a Software Engineer with 11+ years coding experience with C, C++, Matlab, Java, C#, PHP, JavaScript, Python and Go.
+- Based in London, UK. 
+- Focused on JavaScript, Python and Go.
+- Interested in Full Stack Web/Mobile, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
+- I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev).
 
 
 ### :man_technologist: Languages 
