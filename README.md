@@ -58,9 +58,7 @@ I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java
 <a href="https://github.com/yohannesHL/yohannesHL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=1d1f21" />
 </a>
-<a href="https://github.com/yohannesHL/yohannesHL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=1d1f21" alt="Yohannes's GitHub Stats" />
-</a>
+
 
 
 # Some of my projects 
@@ -69,5 +67,7 @@ I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java
 
 <!-- &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
 
-
+<a href="https://github.com/yohannesHL/yohannesHL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=1d1f21" alt="Yohannes's GitHub Stats" />
+</a>
 -->
