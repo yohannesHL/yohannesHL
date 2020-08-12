@@ -56,10 +56,10 @@ I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yohannesHL/yohannesHL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue" />
 </a>
 <a href="https://github.com/yohannesHL/yohannesHL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yohannes's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true" alt="Yohannes's GitHub Stats" />
 </a>
 
 
@@ -67,7 +67,7 @@ I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yohannesHL&repo=aws-cdk-lambda-step-functions-stack)](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
 
 
-<!-- 
+<!-- &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
 
 
 -->
