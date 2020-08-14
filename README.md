@@ -39,7 +39,7 @@ I'm a Software Engineer with coding experience, spanning 11+ years, in languages
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yohannesHL/yohannesHL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=1d1f21&text_color=c9cacc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=1d1f21" />
 </a>
 
 
@@ -59,6 +59,9 @@ I'm a Software Engineer with coding experience, spanning 11+ years, in languages
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yohannesHL&repo=aws-cdk-lambda-step-functions-stack)](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
 
+<a href="https://github.com/yohannesHL/yohannesHL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true" alt="Yohannes's GitHub Stats" />
+</a>
 <a href="https://github.com/yohannesHL/yohannesHL">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=1d1f21" alt="Yohannes's GitHub Stats" />
 </a>
