@@ -10,28 +10,6 @@ I'm a Software Engineer with coding experience, spanning 11+ years, in many lang
 
 ### :man_technologist: Languages 
 
-<!--
-### Languages I've used 
-
-![](https://img.shields.io/badge/C-informational?color=1d1f21&logo=C)
-![](https://img.shields.io/badge/C++-informational?color=1d1f21&logo=Cpp")
-![](https://img.shields.io/badge/C#-informational?color=1d1f21&logo=csharp)
-![](https://img.shields.io/badge/Java-informational?color=1d1f21&logo=Java)
-![](https://img.shields.io/badge/PHP-informational?color=1d1f21&logo=php)
-### Languages I regularly use 
-
--->
-
-
-
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&color=1d1f21&logo=html5)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&color=1d1f21&logo=javascript)
-![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&color=1d1f21&logo=typescript)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&color=1d1f21&logo=python)
-![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&color=1d1f21&logo=go)
-![](https://img.shields.io/badge/SQL-informational?style=for-the-badge&color=1d1f21&logo=mysql)
-![](https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&color=1d1f21&logo=graphql)
-
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&color=1d1f21&logo=html5)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&color=1d1f21&logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&color=1d1f21&logo=typescript)
