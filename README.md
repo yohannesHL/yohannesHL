@@ -46,8 +46,8 @@ I'm a Software Engineer with coding experience, spanning 11+ years, in languages
 
 ### Some of my projects 
 - [AWS CDK Stack With Lambdas and Step Functions](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
-- [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
 - [Simple table game site using React + Relay + GraphQL API ](https://github.com/yohannesHL/fullstack-react-games)
+- [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
 - [Spark Streaming Pipeline using Kafka and PySpark](https://github.com/yohannesHL/spark-sf-crime-statistics)
 - [Kafka Streaming Pipeline using Kafka, Faust and KSQLDB](https://github.com/yohannesHL/kafka-public-transport-optimization)
 - [A utility to find duplicate files (WIP)](https://github.com/yohannesHL/dupfinder)
