@@ -1,5 +1,5 @@
 ### Hey :wave:, I'm Yohannes 
-I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java, C#, PHP, JavaScript, Python and Go.
+I'm a Software Engineer with coding experience, spanning 11+ years, in many languages such as C, C++, C#, PHP, Java, JavaScript, Python and Go.
 - Based in London, UK. 
 - Focused on JavaScript, Python and Go.
 - Interested in Full Stack Web/Mobile, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
@@ -42,13 +42,12 @@ I'm a Software Engineer with 11+ years coding experience in C, C++, Matlab, Java
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&color=1d1f21&logo=Django)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&color=1d1f21&logo=postgresql)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&color=1d1f21&logo=mysql)
-![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&color=1d1f21&logo=mongodb)
 ![](https://img.shields.io/badge/KsqlDB-informational?style=for-the-badge&color=1d1f21&logo=ksqldb)
 ![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&color=1d1f21&logo=redis)
 ![](https://img.shields.io/badge/RabbitMQ-informational?style=for-the-badge&color=1d1f21&logo=rabbitmq)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&color=1d1f21&logo=docker)
-![](https://img.shields.io/badge/Spark-informational?style=for-the-badge&color=1d1f21&logo=spark)
-![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&color=1d1f21&logo=apache_kafka)
+![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&color=1d1f21&logo=apache-kafka)
+![](https://img.shields.io/badge/Spark-informational?style=for-the-badge&color=1d1f21&logo=apache-spark)
 ![](https://img.shields.io/badge/AWS-informational?style=for-the-badge&color=1d1f21&logo=amazon-web-services)
 
   
