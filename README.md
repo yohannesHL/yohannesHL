@@ -32,25 +32,31 @@ I'm a Software Engineer with coding experience, spanning 11+ years, in many lang
 ![](https://img.shields.io/badge/SQL-informational?style=for-the-badge&color=1d1f21&logo=mysql)
 ![](https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&color=1d1f21&logo=graphql)
 
+![](https://img.shields.io/badge/HTML5-informational?style=flat&color=1d1f21&logo=html5)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&color=1d1f21&logo=javascript)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&color=1d1f21&logo=typescript)
+![](https://img.shields.io/badge/Python-informational?style=flat&color=1d1f21&logo=python)
+![](https://img.shields.io/badge/Golang-informational?style=flat&color=1d1f21&logo=go)
+![](https://img.shields.io/badge/SQL-informational?style=flat&color=1d1f21&logo=mysql)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&color=1d1f21&logo=graphql)
+
 
 ### 🔧 Tools
-![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&color=1d1f21&logo=linux)
-![](https://img.shields.io/badge/VS_Code-informational?style=for-the-badge&color=1d1f21&logo=visual-studio-code)
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&color=1d1f21&logo=react)
-![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&color=1d1f21&logo=node.js)
-![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&color=1d1f21&logo=flask)
-![](https://img.shields.io/badge/Django-informational?style=for-the-badge&color=1d1f21&logo=Django)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&color=1d1f21&logo=postgresql)
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&color=1d1f21&logo=mysql)
-![](https://img.shields.io/badge/KsqlDB-informational?style=for-the-badge&color=1d1f21&logo=ksqldb)
-![](https://img.shields.io/badge/Redis-informational?style=for-the-badge&color=1d1f21&logo=redis)
-![](https://img.shields.io/badge/RabbitMQ-informational?style=for-the-badge&color=1d1f21&logo=rabbitmq)
-![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&color=1d1f21&logo=docker)
-![](https://img.shields.io/badge/Kafka-informational?style=for-the-badge&color=1d1f21&logo=apache-kafka)
-![](https://img.shields.io/badge/Spark-informational?style=for-the-badge&color=1d1f21&logo=apache-spark)
-![](https://img.shields.io/badge/AWS-informational?style=for-the-badge&color=1d1f21&logo=amazon-web-services)
-
-  
+![](https://img.shields.io/badge/Linux-informational?style=flat&color=1d1f21&logo=linux)
+![](https://img.shields.io/badge/VS_Code-informational?style=flat&color=1d1f21&logo=visual-studio-code)
+![](https://img.shields.io/badge/React-informational?style=flat&color=1d1f21&logo=react)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&color=1d1f21&logo=node.js)
+![](https://img.shields.io/badge/Flask-informational?style=flat&color=1d1f21&logo=flask)
+![](https://img.shields.io/badge/Django-informational?style=flat&color=1d1f21&logo=Django)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&color=1d1f21&logo=postgresql)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&color=1d1f21&logo=mysql)
+![](https://img.shields.io/badge/KsqlDB-informational?style=flat&color=1d1f21&logo=ksqldb)
+![](https://img.shields.io/badge/Redis-informational?style=flat&color=1d1f21&logo=redis)
+![](https://img.shields.io/badge/RabbitMQ-informational?style=flat&color=1d1f21&logo=rabbitmq)
+![](https://img.shields.io/badge/Docker-informational?style=flat&color=1d1f21&logo=docker)
+![](https://img.shields.io/badge/Spark-informational?style=flat&color=1d1f21&logo=apache-spark)
+![](https://img.shields.io/badge/Kafka-informational?style=flat&color=1d1f21&logo=apache-kafka)
+![](https://img.shields.io/badge/AWS-informational?style=flat&color=1d1f21&logo=aws-cloud)
   
 ### &#x1f4c8; GitHub Stats
 
