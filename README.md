@@ -50,7 +50,7 @@ I'm a Software Engineer with coding experience, spanning 11+ years, in languages
 - [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
 - [Spark Streaming Pipeline using Kafka and PySpark](https://github.com/yohannesHL/spark-sf-crime-statistics)
 - [Kafka Streaming Pipeline using Kafka, Faust and KSQLDB](https://github.com/yohannesHL/kafka-public-transport-optimization)
-- [A utility to find duplicate files (WIP)](https://github.com/yohannesHL/dupfinder)
+- [A utility to find duplicate files](https://github.com/yohannesHL/dupfinder)
 - [Go API for a simple market place site (WIP)](https://github.com/yohannesHL/go-marketplace)
 
 
