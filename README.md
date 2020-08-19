@@ -1,7 +1,6 @@
-### Hey :wave:, I'm Yohannes 
-I'm a Software Engineer with coding experience, spanning 11+ years, in languages such as C, C++, C#, PHP, Java, JavaScript, Python and Go.
-- Interested in Full Stack Web/Mobile, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
+I'm Yohannes, a Software Engineer with a passion for building things. I have been coding for a while (11+ years) and have experience in languages such as C, C++, C#, PHP, Java, JavaScript, Python and Go.
 - Focused on JavaScript, Python and Go.
+- Interested in Full Stack Web/Mobile, DevOps, AI, Data Streaming, Event Sourcing and Distributed Systems.
 - I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev).
 
 
