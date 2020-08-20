@@ -45,10 +45,10 @@ I'm Yohannes, a Software Engineer with a passion for building things. I have bee
 
 ### Some of my projects 
 - [AWS CDK Stack With Lambdas and Step Functions](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
-- [Simple table game site using React + Relay + GraphQL API ](https://github.com/yohannesHL/fullstack-react-games)
-- [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
 - [Spark Streaming Pipeline using Kafka and PySpark](https://github.com/yohannesHL/spark-sf-crime-statistics)
 - [Kafka Streaming Pipeline using Kafka, Faust and KSQLDB](https://github.com/yohannesHL/kafka-public-transport-optimization)
+- [Simple game site using React + Relay + GraphQL API ](https://github.com/yohannesHL/fullstack-react-games)
+- [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
 - [A utility to find duplicate files](https://github.com/yohannesHL/dupfinder)
 - [Go API for a simple market place site (WIP)](https://github.com/yohannesHL/go-marketplace)
 
