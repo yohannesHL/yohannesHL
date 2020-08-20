@@ -49,7 +49,7 @@ I'm Yohannes, a Software Engineer with a passion for building things. I have bee
 - [Kafka Streaming Pipeline using Kafka, Faust and KSQLDB](https://github.com/yohannesHL/kafka-public-transport-optimization)
 - [Simple game site using React + Relay + GraphQL API ](https://github.com/yohannesHL/fullstack-react-games)
 - [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
-- [A utility to find duplicate files](https://github.com/yohannesHL/dupfinder)
+- [A utility to find and dedup duplicate files](https://github.com/yohannesHL/dupfinder)
 - [Go API for a simple market place site (WIP)](https://github.com/yohannesHL/go-marketplace)
 
 
