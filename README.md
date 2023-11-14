@@ -1,4 +1,5 @@
-I'm Yohannes, a Software Engineer with a passion for building things. I have been coding for a while (11+ years) and have experience in languages such as C, C++, C#, PHP, Java, JavaScript, Python and Go.
+I'm Yohannes, a Software Engineer with a passion for building things.
+
 - Focused on TypeScript/JavaScript, Python and Go.
 - Skilled in Full Stack Web/Mobile Development, Data Streaming, Event Sourcing, Distributed Systems, AI, and DevOps.
 - I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev).
