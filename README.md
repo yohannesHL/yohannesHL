@@ -42,7 +42,12 @@ I'm Yohannes, a Software Engineer with a passion for building things.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=1d1f21" />
 </a>
 
-
+<a href="https://github.com/yohannesHL/yohannesHL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true" alt="Yohannes's GitHub Stats" />
+</a>
+<a href="https://github.com/yohannesHL/yohannesHL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannesHL&show_icons=true&line_height=27&count_private=true&title_color=1d1f21" alt="Yohannes's GitHub Stats" />
+</a>
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yohannesHL&repo=aws-cdk-lambda-step-functions-stack)](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
 
