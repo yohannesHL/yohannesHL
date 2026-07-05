@@ -1,7 +1,7 @@
 I'm Yohannes, a Software Engineer with a passion for building things.
 
 - Focused on TypeScript/JavaScript, Python and Go.
-- Skilled in Full Stack Web/Mobile Development, Data Streaming, Event Sourcing, Distributed Systems, AI, and DevOps.
+- Skilled in Full Stack Web/Mobile Development, AI Enginering and Agentic Development, Data Streaming, Event Sourcing, Distributed Systems, and DevOps.
 - I'm currently available for hire via [fluxsoft.dev](https://fluxsoft.dev).
 
 
@@ -42,19 +42,6 @@ I'm Yohannes, a Software Engineer with a passion for building things.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesHL&hide=html,css,vue&title_color=1d1f21" />
 </a>
 
-
-
-### Some of my projects 
-- [AWS CDK Stack With Lambdas and Step Functions](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
-- [Spark Streaming Pipeline using Kafka and PySpark](https://github.com/yohannesHL/spark-sf-crime-statistics)
-- [Kafka Streaming Pipeline using Kafka, Faust and KSQLDB](https://github.com/yohannesHL/kafka-public-transport-optimization)
-- [Simple game site using React + Relay + GraphQL API ](https://github.com/yohannesHL/fullstack-react-games)
-- [News Scraper and Nuxt SSR App](https://github.com/yohannesHL/fullstack-nuxt-news)
-- [A utility to find and dedup duplicate files](https://github.com/yohannesHL/dupfinder)
-- [Go API for a simple market place site (WIP)](https://github.com/yohannesHL/go-marketplace)
-
-
-[View All](https://github.com/yohannesHL?tab=repositories&type=source)
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yohannesHL&repo=aws-cdk-lambda-step-functions-stack)](https://github.com/yohannesHL/aws-cdk-lambda-step-functions-stack)
